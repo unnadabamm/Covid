@@ -1,0 +1,22 @@
+[
+    {
+        "year": 2022,
+        "weeknum": 43,
+        "new_case": 2551,
+        "total_case": 4692448,
+        "new_case_excludeabroad": 2551,
+        "total_case_excludeabroad": 4667373,
+        "new_recovered": 0,
+        "total_recovered": 4647275,
+        "new_death": 33,
+        "total_death": 32955,
+        "case_foreign": 0,
+        "case_prison": 0,
+        "case_walkin": 2548,
+        "case_new_prev": 2574,
+        "case_new_diff": -23,
+        "death_new_prev": 28,
+        "death_new_diff": 5,
+        "update_date": "2022-10-31 07:28:35"
+    }
+]
